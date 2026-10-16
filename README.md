@@ -1,8 +1,6 @@
 LDF-Productions
 Descripción del videojuego
 
-Este repositorio contiene el desarrollo de nuestro proyecto de videojuego.
-
 Nombre del juego: Shaolin Jumper
 
 Género: Acción, comedia, Plataformas 2D
